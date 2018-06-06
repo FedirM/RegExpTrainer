@@ -1,4 +1,4 @@
-# Qt5 Regular Expresion Desktop Trainer
+# Qt5 Regular Expression Desktop Trainer
 
 An application to train one's regexp skills.
 
